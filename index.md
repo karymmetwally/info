@@ -1,5 +1,5 @@
 ---
-title: "My website"
+title: "Global Information"
 output: 
   html_document:
     toc: FALSE
@@ -11,7 +11,7 @@ output:
 **Welcome to my website!**
 
 
-# Getting started
+# Are you ready Getting started
 
 Click the links in the menu above to look around.
 
