@@ -8,8 +8,7 @@ output:
 
 
 
-**Welcome to my website!**
-
+**GLOBAL CITIZEN**
 
 # Are you ready Getting started
 
