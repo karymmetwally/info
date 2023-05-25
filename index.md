@@ -10,8 +10,7 @@ output:
 
 **GLOBAL CITIZEN**
 
-# Are you ready Getting started
-
+# GLOBAL CITIZEN 
 Click the links in the menu above to look around.
 
 
