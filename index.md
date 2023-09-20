@@ -1,8 +1,5 @@
 ---
-title: "Global Information"
-output: 
-  html_document:
-    toc: FALSE
+title: Global
 ---
 
 ## GLOBAL CITIZEN 
