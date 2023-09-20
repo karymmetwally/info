@@ -5,12 +5,8 @@ output:
     toc: FALSE
 ---
 
+## GLOBAL CITIZEN 
 
-
-
-**GLOBAL CITIZEN**
-
-# GLOBAL CITIZEN 
 Click the links in the menu above to look around.
 
 
