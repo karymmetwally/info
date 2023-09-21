@@ -3,5 +3,8 @@ theme: minima
 title: مدونة
 
 
+header_pages:
+  - new.md
+
 minima:
   skin: dark
