@@ -5,6 +5,7 @@ title: مدونة
 
 header_pages:
   - new.md
+  - ara.md
 
 minima:
   skin: dark
