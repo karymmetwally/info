@@ -1,3 +1,7 @@
 language: ar
 theme: minima
 title: مدونة
+
+
+minima:
+  skin: dark
