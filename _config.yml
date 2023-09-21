@@ -8,4 +8,4 @@ header_pages:
   - ara.md
 
 minima:
-  skin: dark
+  skin: solarized-dark
