@@ -1,5 +1,5 @@
 ---
-title: Global
+title: index
 ---
 
 ## GLOBAL CITIZEN 
