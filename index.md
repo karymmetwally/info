@@ -5,7 +5,7 @@ title:   رئيسي
 
 
 
-**GLOBAL CITIZEN**
+**هذه الصفحه الرئيسيه**
 
 # GLOBAL CITIZEN 
 Click the links in the menu above to look around.
