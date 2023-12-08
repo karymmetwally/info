@@ -1,6 +1,0 @@
----
-title: مختصر
----
-
-# Readme
-website
